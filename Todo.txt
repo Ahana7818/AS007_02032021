@@ -1,0 +1,188 @@
+From Me to Imran Shaik:  (Direct Message) 04:16 PM
+yes
+yes
+From Me to Imran Shaik:  (Direct Message) 04:24 PM
+how will be 24 hrs?
+From Me to Imran Shaik:  (Direct Message) 04:36 PM
+yes
+From Me to Imran Shaik:  (Direct Message) 04:47 PM
+yes
+yes
+From Imran Shaik to Everyone:  04:56 PM
+4  cal 
+    5  cal -y 
+    6  cal -h 
+    7  cal -3 
+    8  cal -j 
+    9  cal -V 
+   10  cal -h 
+   11  echo Hello 
+   12  echo $HOME 
+   13  pwd
+   14  cd Desktop/
+   15  pwd
+   16  echo $HOME 
+   17  echo $0 
+   18  echo $BASH_VERSION 
+   19  uname -a 
+   20  uname -r 
+   21  NAME=imran 
+   22  echo $NAME 
+   23  clear 
+   24  id student 
+   25  id root 
+   26  id u1 
+   27  date 
+   28  date +%T 
+   29  date +%B
+   30  date +%Y 
+   31  date -h 
+   32  date --help 
+   33  date +%H 
+   34  date -s "2021-01-01 11:22:44" 
+   35  su - root 
+   36  date 
+   37  tty
+   38  whoami 
+   39  timedatectl 
+   40  su - 
+   41  pwd
+   42  cat > File1 
+   43  cat >> File1 
+   44  cat < File1 
+   45  cat File1 
+   46  cat > File2 
+   47  ls -l 
+   48  cat File1 
+   49  cat File2 
+   50  cat File1 File2 > File3 
+   51  ls -l 
+   52  cat File3 
+   53  history
+4  cal 
+    5  cal -y 
+    6  cal -h 
+    7  cal -3 
+    8  cal -j 
+    9  cal -V 
+   10  cal -h 
+   11  echo Hello 
+   12  echo $HOME 
+   13  pwd
+   14  cd Desktop/
+   15  pwd
+   16  echo $HOME 
+   17  echo $0 
+   18  echo $BASH_VERSION 
+   19  uname -a 
+   20  uname -r 
+   21  NAME=imran 
+   22  echo $NAME 
+   23  clear 
+   24  id student 
+   25  id root 
+   26  id u1 
+   27  date 
+   28  date +%T 
+   29  date +%B
+   30  date +%Y 
+   31  date -h 
+   32  date --help 
+   33  date +%H 
+   34  date -s "2021-01-01 11:22:44" 
+   35  su - root 
+   36  date 
+   37  tty
+   38  whoami 
+   39  timedatectl 
+   40  su - 
+   41  pwd
+   42  cat > File1 
+   43  cat >> File1 
+   44  cat < File1 
+   45  cat File1 
+   46  cat > File2 
+   47  ls -l 
+   48  cat File1 
+   49  cat File2 
+   50  cat File1 File2 > File3 
+   51  ls -l 
+   52  cat File3 
+   53  history
+From Imran Shaik to Everyone:  05:19 PM
+54  touch f1 f2 f3 f4 
+   55  ls -l 
+   56  touch k{1..4} 
+   57  ls -l 
+   58  touch -d "2021-01-22 22:44:11" File1 
+   59  ls -l 
+   60  mkdir dir1 dir2 dir3 dir4 
+   61  ls -l 
+   62  mkdir d{1..4}
+   63  ls -l 
+   64  mkdir -p L1/L2/L3/L4 
+   65  ls -l 
+   66  ls -R 
+   67  ls -R L1 
+   68  tree L1 
+   69  su - 
+   70  tree L1 
+   71  mkdir -p NIT/{Linux/{Rhcsa,Rhce},Windows/{Mcsa,Mcse},Oracle/{Sql,Plsql}} 
+   72  ls -l 
+   73  ls -R NIT 
+   74  tree NIT 
+
+
+X producthttps://drive.google.com/drive/folders/1uZyyog3ovBmLm6ZgTsJNEuFl-g68kEF3---to chekc linus
+
+
+- basket % is different as per Normal accoding to Buy and SELL percentage will set - as per benifit requied for SELLER
+
+1-DP qty =total qty =100 qty > Sell 100/ buy 100 > margin release 2.200 sell --100 margin release a(CFS will get)-- 100 (btst qty) margin will blocked
+Extra short > margin release > extra sell ko margin blocking
+
+2.BTST sell blcoking > removed CFS var % > introducing new basket 
+
+3.NBFC: stock like > updting in POA /Colla > 
+
+4.DElivery product only for NRI and  not dicesided 
+-5.Only 1 stock capital availble 
+-TRade to trade scrip > after sold > not allowed to palce buy order
+
+
+--------------
+Give Your Employees A Test. This is pretty traditional and efficient way to assess technical and theoretical knowledge. ...
+Ask To Prepare Self-Assessment. ...
+Get Feedback From The Teams. ...
+Put Them In Real Situations. ...
+Let Them Play A Business Game. ...
+Ask For Clients' Feedback. ...
+Final Word.
+
+1.Server level: 
+1.Doing configuration at sever level so that exchange can connect though that connectivity like Pulse secure,exchange LAN,
+2.Keeping track UAT server 
+3.Switching respective application in case server failure, 
+2.Exchange changes
+1.Taking understanding and follow up with exchange ragarding changes and shareing to developers team
+2.Keeping track on live date so that application can ready 
+3.Reports to developers about impact of chanegs and taking scope to do testing
+4.Validating from exchanges once changes done from exchange
+5.Follow up other than 
+
+1.Perform data analysis to support evaluation of system defects or to develop requirements for new functionality
+-Perform data analysis to support evaluation of system defects or to develop requirements for new functionality
+Conduct impact analysis of technology changes on business processes and existing technology.
+-Coordinate activities including on-time delivery, testing and production moves.
+-Provide support and doing testing with including business function support for version migrations
+Demonstrate a high level of subject matter expertise in functional area to bridge business requirements and IT solutions.
+-Practice knowledge transfer of new and exssitig change functionality on team/individual development
+Ensure proper Quality Assurance throughout the project
+-Develop functional and non functional test cases and scenarios.
+-Coordinate functional and testing by executing testing strategy, scheduling resources.
+Understand basic Project Management practices and apply them as and when required.
+-Work on multiple projects simultaneously
+-Tracking open defects and also cordinating as per severity and follow up for approaval processes
+-Finding root cause of production bugs
+-Walkthough of new functionality to Security testing and Operation team
+-Perform thorough regression testing when bugs are resolved
